@@ -17,7 +17,7 @@ public class ConsoleGameHandler
     {
         Console.WriteLine("Welcome to Minesweeper!");
         Console.WriteLine("Use W/A/S/D or arrow keys to move.");
-        Console.WriteLine("Try to reach the right side of the board without hitting too many mines!");
+        Console.WriteLine("Try to reach the top side of the board without hitting too many mines!");
         Console.WriteLine("Press any key to start...");
         Console.ReadKey(true);
         
