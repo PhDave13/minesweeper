@@ -1,4 +1,4 @@
-# minesweeper
+# Minesweeper
 Command line - chess movement inspired minesweeper game.
 
 This is a first draft.  Use Result pattern with ErrorOr
